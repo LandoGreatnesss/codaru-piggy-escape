@@ -1,0 +1,18 @@
+# Welcome message and player name
+a = input("Welcome to Roblox Piggy! Enter username: ")
+print("Welcome,", a)
+
+# Start of game scenario
+input("You press play. (Press anything to continue)")
+print("*You wake up inside a strange house.*")
+
+# Player makes a choice
+b = int(input("You hear footsteps. Where do you go? 1. Kitchen 2. Basement 3. Window"))
+
+# Decision results
+if b == 1:
+    print("Piggy is in the kitchen. You got smacked. BAD ENDING.")
+elif b == 2:
+    print("You fall into a trap. Piggy laughs. STUPID ENDING.")
+elif b == 3:
+    print("You jump out the window and escape. YOU WIN!")
