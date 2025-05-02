@@ -17,7 +17,7 @@ Play through the game by answering the prompts!
 How to Run the Code
 
 Clone the repository to your local machine:
-git clone https://github.com/landogreatnesss/piggy-escape-game.git
+git clone https://github.com/landogreatnesss/codaru-piggy-escape
 Navigate to the project folder in your terminal or command prompt.
 Run the game with Python:
 python3 piggy_escape_game.py
