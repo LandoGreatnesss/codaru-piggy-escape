@@ -20,5 +20,5 @@ Clone the repository to your local machine:
 git clone https://github.com/landogreatnesss/codaru-piggy-escape
 Navigate to the project folder in your terminal or command prompt.
 Run the game with Python:
-python3 piggy_escape_game.py
+python3 codaru-piggy-escape.py
 Enjoy!
