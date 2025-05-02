@@ -1,0 +1,1 @@
+a=input("Welcome to Roblox Piggy! Enter username: ");print("Welcome,",a);input("You press play. ");print("*You wake up inside a strange house.*");b=int(input("You hear footsteps. Where do you go? 1. Kitchen 2. Basement 3. Window"));print(["Piggy got you.","Trap!","YOU WIN!"][b-1])
